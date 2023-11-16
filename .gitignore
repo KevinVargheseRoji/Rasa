@@ -1,0 +1,3 @@
+src/.rasa
+/venv/Lib/site-packages/*
+/venv/share/doc/networkx-2.6.3/examples
